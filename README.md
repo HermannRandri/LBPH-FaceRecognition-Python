@@ -8,7 +8,7 @@ Installer les packages suivants:
 
 
 =============================== USAGE =================================
-
+- Créer un dossier nommé images
 - Ouvrez le fichier data_collector.py 
 - Tapez le nom du répertoire que vous voulez enregistrer les images capturés (ex: votre_nom )// Le programme crée automatiquement ce répertoire et puis place les images dedans
 - Cliquer sur apprentissage pour lancer l'apprentissage
